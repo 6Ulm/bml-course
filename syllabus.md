@@ -33,4 +33,5 @@ landscape.
 * All classes and material will be in English. Students can write their final report either in French or English.
 
 ## Validation
-* Students form groups. Each group reads and reports on a research paper. We expect a dash of creativity: students should identify a weakness of the paper, and try to push in that direction. This can mean extending a proof, implementing another feature, investigating different experiments, etc. Deliverables are a small report and a short oral presentation in front of the class.
+* Students form groups. Each group reads and reports on a research paper from a list. We expect a dash of creativity: students should identify a weakness of the paper, and try to push in that direction. This can mean extending a proof, implementing another feature, investigating different experiments, etc. 
+* Deliverables are a small report and a short oral presentation in front of the class.
