@@ -23,7 +23,8 @@ landscape.
 * Bayesian methods for deep learning
 
 ## Prerequisites
-* It is recommended to have followed either the course of P. Latouche and N. Chopin on "Probabilistic graphical models" or the course of S. Allassonière on "computational statistics".
+* An undergraduate course in probability.
+* It is recommended to have followed either the course of P. Latouche and N. Chopin on "Probabilistic graphical models" or the course of S. Allassonière on "computational statistics" during the first semester.
 * A working knowledge of Python is required for practical sessions.
 
 ## Organization of courses
@@ -33,5 +34,5 @@ landscape.
 * All classes and material will be in English. Students can write their final report either in French or English.
 
 ## Validation
-* Students form groups. Each group reads and reports on a research paper from a list. We expect a dash of creativity: students should identify a weakness of the paper, and try to push in that direction. This can mean extending a proof, implementing another feature, investigating different experiments, etc. 
+* Students form groups. Each group reads and reports on a research paper from a list. We expect a dash of creativity: students should identify a weakness of the paper, and try to push in that direction. This can mean extending a proof, implementing another feature, investigating different experiments, etc.
 * Deliverables are a small report and a short oral presentation in front of the class.
