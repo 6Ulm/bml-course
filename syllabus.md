@@ -1,10 +1,5 @@
 # Bayesian machine learning
 
-Time. The course consists in 8 × 2 hours of lectures, and 4 × 2 hours of practicals, totalling 24 hours. We are of course open to discussion and we can easily compress that total.
-
-Evaluation. Evaluation is project-based, each project revolving around a research paper. The number of students by project will depend on the number of students in the class.
-
-
 ## Lecturers
 * Rémi Bardenet (CNRS, Univ. Lille)
 * Julyan Arbel (Inria, Univ. Grenoble-Alpes)
