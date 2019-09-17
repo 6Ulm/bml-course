@@ -1,37 +1,41 @@
 # Bayesian machine learning
 
+Time. The course consists in 8 × 2 hours of lectures, and 4 × 2 hours of practicals, totalling 24 hours. We are of course open to discussion and we can easily compress that total.
+
+Evaluation. Evaluation is project-based, each project revolving around a research paper. The number of students by project will depend on the number of students in the class.
+
+
 ## Lecturers
 * Rémi Bardenet (CNRS, Univ. Lille)
 * Julyan Arbel (Inria, Univ. Grenoble-Alpes)
 
 ## Objective of the course
-Provide a unifying introduction to probabilistic modelling through the framework of graphical models, together with their associated  learning and inference algorithms.
+By the end of the course, the students should
+* have a high-level view of the main approaches to making decisions under uncertainty.
+* be able to detect when being Bayesian helps and why.
+* be able to design and run a Bayesian ML pipeline for standard supervised or unsupervised
+learning.
+* have a global view of the current limitations of Bayesian approaches and the research
+landscape.
+* be able to understand the abstract of most Bayesian ML papers.
 
 ## Topics
-    Maximum likelihood
-    Linear regression
-    Logistic regression
-    Mixture models and clustering
-    Directed and undirected graphical models
-    Exponential family
-    Sum-product algorithm and exact inference
-    Hidden Markov models
-    Approximate inference
-    Bayesian methods
+* Decision theory
+* 50 shades of Bayes: Subjective and objective interpretations
+* Bayesian supervised and unsupervised learning
+* Advanced Monte Carlo methods
+* Bayesian nonparametrics
+* Bayesian methods for deep learning
 
-# Prerequisites
-Course on Probability
-Organization of courses :
+## Prerequisites
+* It is recommended to have followed either the course of P. Latouche and N. Chopin on "Probabilistic graphical models" or the course of S. Allassonière on "computational statistics".
+* A working knowledge of Python is required for practical sessions.
 
-    9 classes of 3 hours each
-    All classes and materials will be in English. All interactions, homeworks, exams may be done in French or English
+## Organization of courses
+* 6x2 hours of lectures
+* 4x2 hours of practicals
+* 4 hours of "student seminars" for the evaluation.
+* All classes and material will be in English. Students can write their final report either in French or English.
 
-# Validation
-
-     3 homeworks with simple implementations of algorithms (Matlab, R, Python ou autre)
-      1 final exam
-      Reading a research paper and write a small report (less than 4 pages)
-    Si rattrapage: oral
-
-#References
-Chris Bishop. Pattern Recognition and Machine Learning. Springer, 2006
+## Validation
+* Students form groups. Each group reads and reports on a research paper. We expect a dash of creativity: students should identify a weakness of the paper, and try to push in that direction. This can mean extending a proof, implementing another feature, investigating different experiments, etc. Deliverables are a small report and a short oral presentation in front of the class.
