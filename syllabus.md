@@ -1,8 +1,8 @@
 # Bayesian machine learning
 
 ## Lecturers
-* Rémi Bardenet (CNRS, Univ. Lille)
-* Julyan Arbel (Inria, Univ. Grenoble-Alpes)
+* Rémi Bardenet (CNRS, Univ. Lille), https://rbardenet.github.io
+* Julyan Arbel (Inria, Univ. Grenoble-Alpes), https://julyanarbel.com
 
 ## Objective of the course
 By the end of the course, the students should
@@ -18,21 +18,21 @@ landscape.
 * Decision theory
 * 50 shades of Bayes: Subjective and objective interpretations
 * Bayesian supervised and unsupervised learning
-* Advanced Monte Carlo methods
+* Advanced Bayesian computation: Monte Carlo and variational methods
 * Bayesian nonparametrics
 * Bayesian methods for deep learning
 
 ## Prerequisites
 * An undergraduate course in probability.
-* It is recommended to have followed either the course of P. Latouche and N. Chopin on "Probabilistic graphical models" or the course of S. Allassonière on "computational statistics" during the first semester.
-* A working knowledge of Python is required for practical sessions.
+* It is recommended to have followed either the course of P. Latouche and N. Chopin on "Probabilistic graphical models" or the course of S. Allassonière on "Computational statistics" during the first semester.
+* Practical will be in Python and R. A basic knowledge of both languages is required. Nothing fancy, students should simply be able to read and write simple programs and load libraries: going through a basic online tutorial in both languages should be enough.
 
 ## Organization of courses
 * 6x2 hours of lectures
 * 4x2 hours of practicals
 * 4 hours of "student seminars" for the evaluation.
-* All classes and material will be in English. Students can write their final report either in French or English.
+* All classes and material will be in English. Students may write their final report either in French or English.
 
 ## Validation
-* Students form groups. Each group reads and reports on a research paper from a list. We expect a dash of creativity: students should identify a weakness of the paper, and try to push in that direction. This can mean extending a proof, implementing another feature, investigating different experiments, etc.
-* Deliverables are a small report and a short oral presentation in front of the class.
+* Students form groups. Each group reads and reports on a research paper from a list. We strongly encourage a dash of creativity: students should identify a weak point, shortcoming or limitation of the paper, and try to push in that direction. This can mean extending a proof, implementing another feature, investigating different experiments, etc.
+* Deliverables are a small report and a short oral presentation in front of the class, in the form of a student seminar, which will take place during the last lecture.
