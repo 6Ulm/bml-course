@@ -18,7 +18,7 @@ landscape.
 * Decision theory
 * 50 shades of Bayes: Subjective and objective interpretations
 * Bayesian supervised and unsupervised learning
-* Advanced Bayesian computation: Monte Carlo and variational methods
+* Bayesian computation for ML: Advanced Monte Carlo and variational methods
 * Bayesian nonparametrics
 * Bayesian methods for deep learning
 
