@@ -2,7 +2,7 @@
 
 ## Lecturers
 * Rémi Bardenet (CNRS, Univ. Lille), https://rbardenet.github.io
-* Julyan Arbel (Inria, Univ. Grenoble-Alpes), https://julyanarbel.com
+* Julyan Arbel (Inria, Univ. Grenoble-Alpes), https://www.julyanarbel.com
 
 ## Objective of the course
 By the end of the course, the students should
@@ -36,3 +36,9 @@ landscape.
 ## Validation
 * Students form groups. Each group reads and reports on a research paper from a list. We strongly encourage a dash of creativity: students should identify a weak point, shortcoming or limitation of the paper, and try to push in that direction. This can mean extending a proof, implementing another feature, investigating different experiments, etc.
 * Deliverables are a small report and a short oral presentation in front of the class, in the form of a student seminar, which will take place during the last lecture.
+
+## References
+* Parmigiani, G. and Inoue, L. 2009. Decision theory: principles and approaches. Wiley.
+* Robert, C. 2007. The Bayesian choice. Springer.
+* Murphy, K. 2012. Machine learning: a probabilistic perspective. MIT Press.
+* Ghosal, S., & Van der Vaart, A. W. 2017. Fundamentals of nonparametric Bayesian inference. Cambridge University Press.
