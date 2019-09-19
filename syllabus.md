@@ -25,7 +25,7 @@ landscape.
 ## Prerequisites
 * An undergraduate course in probability.
 * It is recommended to have followed either the course of P. Latouche and N. Chopin on "Probabilistic graphical models" or the course of S. Allassonière on "Computational statistics" during the first semester.
-* Practical will be in Python and R. A basic knowledge of both languages is required. Nothing fancy, students should simply be able to read and write simple programs and load libraries: going through a basic online tutorial in both languages should be enough.
+* Practicals will be in Python and R. A basic knowledge of both languages is required. Nothing fancy, students should simply be able to read and write simple programs and load libraries: going through a basic online tutorial in both languages should be enough.
 
 ## Organization of courses
 * 6x2 hours of lectures
